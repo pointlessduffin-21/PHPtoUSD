@@ -1,3 +1,6 @@
+/*Comparing my own code versous Sir Conrad's, you can see that he added an "input.nextDouble();" variable rather than running an actual multiplication operation 
+inside the code which makes it so much easier to do multiplication with just a single line of code and frees up a lot of time and may even be supported by APIs.*/
+
 import java.util.Scanner;
 public class PHPtoUSD {
 
