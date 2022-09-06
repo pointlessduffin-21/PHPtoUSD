@@ -9,7 +9,7 @@ public class Exercise1 {
         System.out.print("Input a value in Philippine Peso: ");
         double php = input.nextDouble();
 
-        double usd =(( 0.018 *(php)));
+        double usd =( 0.018 *(php));
         System.out.println(php + " pesos is equal to " + usd + " USD");
     }
 }
